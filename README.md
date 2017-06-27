@@ -21,6 +21,6 @@ Estas pantallas van a aparecer de manera aleatoria, generadas por el programa
 
 ### Niveles
 
-En nuestro proyecto, van a existir dos niveles para cada pantalla. El primero, consta de alguna pantalla de las tres mencionadas en el punto anterior, permitiendo al usuario elegir las cartas con sin ninguna restricción, es decir, puede tardar el tiempo que le sea necesario y tienen todos los turnos posibles.
+En nuestro proyecto, van a existir dos niveles para cada pantalla. El primero, consta de alguna pantalla de las tres mencionadas en el punto anterior, permitiendo al usuario elegir las cartas sin ninguna restricción, es decir, puede tardar el tiempo que le sea necesario y tiene todos los turnos posibles.
 El segundo nivel, aparece la pantalla, pero con una restricción, la cual consiste en un reloj que marca el tiempo. Es decir, el jugador solo dispone de un tiempo determinado por el programa para encontrar todas las parejas de cartas. Si encuentra todas las relaciones entre las cartas, se muestra la siguiente pantalla, de lo contrario, el juego se acabará.
 
