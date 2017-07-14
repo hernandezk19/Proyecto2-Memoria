@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="143.63092mm"
+   height="143.63092mm"
+   viewBox="0 0 143.63092 143.63092"
+   version="1.1"
+   id="svg31"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="socks.svg">
+  <defs
+     id="defs25">
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient5085"
+       gradientUnits="userSpaceOnUse"
+       x="13.644946"
+       y="12.659845">
+      <meshrow
+         id="meshrow8543">
+        <meshpatch
+           id="meshpatch8545">
+          <stop
+             path="c 38.7804,-2.95327e-005  77.5619,-0.000292211  116.341,-0.000292211"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop8547" />
+          <stop
+             path="c -81.6429,33.3299  -9.00114,43.2254  -30.2371,74.2889"
+             style="stop-color:#ff6600;stop-opacity:1"
+             id="stop8549" />
+          <stop
+             path="c -7.03134,-43.8473  -47.3236,27.9692  -86.103,27.9692"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop8551" />
+          <stop
+             path="c 0,-34.0859  -0.000703539,-68.1719  -0.0009,-102.258"
+             style="stop-color:#ff6600;stop-opacity:1"
+             id="stop8553" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10371"
+       x="-0.03043895"
+       width="1.0608779"
+       y="-0.034631137"
+       height="1.0692623">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4755415"
+         id="feGaussianBlur10373" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="209.75943"
+     inkscape:cy="115.06841"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="true"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     borderlayer="true"
+     inkscape:window-width="667"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(5.4495665e-7,16.720213)">
+    <rect
+       style="fill:#00112b;stroke-width:0.28221554"
+       id="rect33"
+       width="143.63092"
+       height="143.63092"
+       x="-5.4495666e-007"
+       y="-16.720213"
+       ry="20.641569" />
+    <rect
+       ry="18.577412"
+       y="-9.5386677"
+       x="8.2398806"
+       height="129.26782"
+       width="129.26782"
+       id="rect41"
+       style="fill:#003380;stroke-width:0.25399399" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:57.70392609px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1.79279947"
+       x="16.365967"
+       y="23.598242"
+       id="text3818"
+       transform="matrix(0.73044829,0.44150015,0,1.3690223,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3816"
+         x="16.365967"
+         y="23.598242"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.1595993px;font-family:'Cooper Black';-inkscape-font-specification:'Cooper Black, ';fill:#00ff00;stroke-width:1.79279947">SOCKS</tspan></text>
+  </g>
+</svg>
